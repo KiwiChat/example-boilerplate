@@ -1,2 +1,0 @@
-# example-boilerplate
-Begin app
